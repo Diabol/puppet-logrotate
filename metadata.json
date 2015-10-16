@@ -1,0 +1,13 @@
+{
+  "name": "diabol-logrotate",
+  "author": "diabol",
+  "version": "1.1.1",
+  "summary": "Logrotate module",
+  "license": "MIT",
+  "project_page": "https://github.com/diabol/puppet-logrotate",
+  "source": "https://github.com/diabol/puppet-logrotate",
+  "dependencies": [],
+  "operatingsystem_support": [],
+  "requirements": [],
+  "tags": []
+}
