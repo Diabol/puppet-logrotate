@@ -1,5 +1,5 @@
 name 'diabol-logrotate'
-version '1.1.1'
+version '1.1.2'
 source 'https://github.com/diabol/puppet-logrotate'
 license 'MIT'
 summary 'Logrotate module'
